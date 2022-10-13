@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📫 How to reach me: [gh_pages](https://k40t1k-sys.github.io)
+📫 How to reach me: <a href="https://k40t1k-sys.github.io/ target="_blank">My Website</a>
