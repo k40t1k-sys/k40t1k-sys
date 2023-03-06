@@ -1,4 +1,8 @@
 ### Hi there 👋
+### ab is currently learning new technologies and topics which are displayed throughout this profile.
+
+🌱 I’m currently learning golang and api development.
+📫 You can mail me at my [email id](abhinavkumar06.ak@gmail.com).
 
 <!--
 **k40t1k-sys/k40t1k-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-📫 How to reach me: <a href="https://k40t1k-sys.github.io/" target="_blank">My Website</a>
 
 <hr/>
 
