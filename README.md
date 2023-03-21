@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ab is currently learning new technologies and topics which are displayed throughout this profile.
+### I am currently learning new technologies and topics which are displayed throughout this profile.
 
 🌱 Currently learning golang and api development.<br/>
 📫 Contact me through my [email id](mailto:abhinavkumar06.ak@gmail.com).
