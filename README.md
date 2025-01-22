@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am currently learning new technologies and topics which are displayed throughout this profile.
 
-🌱 Currently learning back-end and mobile development.<br/>
+🌱 Working in back-end and mobile development.<br/>
 <!-- 📫 Contact me through my [email id](mailto:abhinavkumar06.ak@gmail.com). -->
 
 <!--
